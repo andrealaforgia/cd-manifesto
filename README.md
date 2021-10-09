@@ -22,7 +22,7 @@ CD is the engineering discipline of delivering all changes in a standard way saf
 The minimum activities required for CD are:
 
 - [Continuous integration](#continuous-integration)
-- One path to production
+- The pipeline is the only path to production
 - [Always meets the organization's definition of deployable](https://www.youtube.com/watch?v=bHKHdp4H-8w)
 - Immutable artifact. No human changes after commit.
 - All feature work stops when the pipeline is red
